@@ -1,0 +1,7 @@
+Routing
+There should be multiple Autonomous Systems using differend routing protocols.
+OSPF
+EIGRP
+IS-IS (no decided)
+
+BGP should be used to interconnect each AS.
